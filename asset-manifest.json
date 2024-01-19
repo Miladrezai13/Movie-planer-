@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movie-planer-/static/css/main.cc16a8f5.css",
+    "main.js": "/Movie-planer-/static/js/main.1339b150.js",
+    "static/js/787.1937f22b.chunk.js": "/Movie-planer-/static/js/787.1937f22b.chunk.js",
+    "index.html": "/Movie-planer-/index.html",
+    "main.cc16a8f5.css.map": "/Movie-planer-/static/css/main.cc16a8f5.css.map",
+    "main.1339b150.js.map": "/Movie-planer-/static/js/main.1339b150.js.map",
+    "787.1937f22b.chunk.js.map": "/Movie-planer-/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc16a8f5.css",
+    "static/js/main.1339b150.js"
+  ]
+}
